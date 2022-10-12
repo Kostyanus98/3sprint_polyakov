@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  SchetchikPKD
+//  SchetchikPKD2.0
 //
-//  Created by Константин on 07.10.2022.
+//  Created by Константин on 10.10.2022.
 //
 
 import UIKit
